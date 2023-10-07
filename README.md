@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on front-end app dev
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate on flutter projects
