@@ -7,5 +7,6 @@
 - 📫 How to connect with me : <a href="https://shorturl.at/hzEIT">Reach Me</a>
 - 😄 Pronouns: He/Him
 
-  [![An image of @parthn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parthn)](https://holopin.io/@parthn)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=parth-n&background=45%2C82EBBF%2C6183EB)](https://git.io/streak-stats)
 
