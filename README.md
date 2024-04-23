@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 currently working on front-end app dev
+- 🔭 currently working on app dev
 - 🌱 I’m learning flutter
 - 👯 I’m looking to collaborate on flutter projects
 - 📫 How to connect with me : <a href="https://shorturl.at/hzEIT">Reach Me</a>
