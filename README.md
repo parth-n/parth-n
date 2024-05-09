@@ -3,7 +3,7 @@
 - 🔭 currently working on app dev
 - 🌱 I’m learning flutter
 - 👯 I’m looking to collaborate on flutter projects
-- 📫 How to connect with me : <a href="https://shorturl.at/hzEIT">Reach Me</a>
+- 📫 How to connect with me : <a href="https://www.linkedin.com/in/parth-nepalia-a2780a249/">Reach Me</a>
 - 😄 Pronouns: He/Him
 
   ## Languages and Tools I have worked with:
