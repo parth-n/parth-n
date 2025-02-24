@@ -102,7 +102,11 @@
 	
 </div>
 
-!(https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA0MTcyNjYsIm5iZiI6MTc0MDQxNjk2NiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzMtZmRkY2RiY2QtNWVhMi00NDE2LTlmNTktY2E3ZmQ5Mzk0YWNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI0VDE3MDkyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzMDIxOTAwZGVjYjBhN2NjMDRkODJkMmExODYyYTNiZjk3OWQwZTQzZTdmOTlkNTY2MWJmMDJkNDlhMTA5NDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.uQpBLwu-bwXrIgsa4b7EQiFrdK2aGEsm6ETsC5qVYN8)
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" width="400">
+<br><br>
 ![parth-n's Stats](https://github-readme-stats.vercel.app/api?username=parth-n&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=parth-n&background=45%2C82EBBF%2C6183EB)](https://git.io/streak-stats)
 ![parth-n's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-n&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
