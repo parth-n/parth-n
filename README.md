@@ -101,7 +101,8 @@
 </table>
 	
 </div>
- ![parth-n's Stats](https://github-readme-stats.vercel.app/api?username=parth-n&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![parth-n's Stats](https://github-readme-stats.vercel.app/api?username=parth-n&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=parth-n&background=45%2C82EBBF%2C6183EB)](https://git.io/streak-stats)
 ![parth-n's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-n&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
