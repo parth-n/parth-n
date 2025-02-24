@@ -1,8 +1,9 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=parth-n)
 
 - 🔭 currently working on app dev
-- 🌱 I’m learning flutter
-- 👯 I’m looking to collaborate on flutter projects
+- 🌱 I’m wokring in flutter
+- 👯 I’m a backend developer in Java Springboot
 - 📫 How to connect with me : <a href="https://www.linkedin.com/in/parth-nepalia-a2780a249/">Reach Me</a>
 - 😄 Pronouns: He/Him
 
