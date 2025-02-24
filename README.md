@@ -107,6 +107,7 @@
 
 <img src="https://github.com/user-attachments/assets/7dc581c4-98f2-45fd-be2d-204d0d4e3db3" width="400">
 <br><br>
+
 ![parth-n's Stats](https://github-readme-stats.vercel.app/api?username=parth-n&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=parth-n&background=45%2C82EBBF%2C6183EB)](https://git.io/streak-stats)
 ![parth-n's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-n&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
