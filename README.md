@@ -100,8 +100,6 @@
 </table>
 	
 </div>
-
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 <br><br>
 
 ![parth-n's Stats](https://github-readme-stats.vercel.app/api?username=parth-n&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
